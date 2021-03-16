@@ -1,16 +1,7 @@
 # promotion_ui
 
-A new Flutter project.
+I had made this UI for my internship at Naaniz Seller Pvt. LTD.
 
-## Getting Started
+![WhatsApp Image 2021-03-16 at 10 00 02 (1)](https://user-images.githubusercontent.com/52932210/111256590-6cb82080-863f-11eb-81bf-a57b6d0b96cd.jpeg)
+![WhatsApp Image 2021-03-16 at 10 00 02 (2)](https://user-images.githubusercontent.com/52932210/111256592-6d50b700-863f-11eb-86cb-b03c9832c3d4.jpeg)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
